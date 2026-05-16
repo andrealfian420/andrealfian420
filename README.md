@@ -1,4 +1,4 @@
-# Andre
+# Hi, I'm Andre!
 
 Software Engineer focused on building scalable and maintainable web applications.
 
@@ -32,7 +32,7 @@ I enjoy turning complex requirements into clean and practical solutions — from
 ## Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/alfianandre">
+  <a href="https://www.linkedin.com/in/alfianandre" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
   <a href="https://github.com/andrealfian420">
