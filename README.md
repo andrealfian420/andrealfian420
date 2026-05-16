@@ -1,16 +1,43 @@
-## Hi there 👋
+# Andre
 
-<!--
-**andrealfian420/andrealfian420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on building scalable and maintainable web applications.
 
-Here are some ideas to get you started:
+Working primarily with Laravel, Next.js, Vue.js, TypeScript, and Node.js to develop production-ready systems across multiple domains including government-related platforms, healthcare organizations, digital libraries, e-learning systems, and internal business applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning complex requirements into clean and practical solutions — from frontend architecture and API development to performance optimization and system maintainability.
+
+> Building systems that are reliable, maintainable, and designed to grow over time.
+
+---
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,php,vue,nuxt,nextjs,react,ts,js,nodejs,express,tailwind,postgres,mysql,redis,docker,git&theme=dark" />
+</p>
+
+---
+
+## Interests
+
+- Software Architecture
+- Fullstack Engineering
+- System Design
+- Performance Optimization
+- Clean Code Practices
+- Developer Experience
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/alfianandre">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+  <a href="https://github.com/andrealfian420">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  </a>
+</p>
+
+Always happy to connect with fellow developers and people who enjoy building meaningful products ☕
